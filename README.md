@@ -1,0 +1,1 @@
+# MegapolisTransportSystem-Polimorfizm-AbstractClass-StaticMetod
